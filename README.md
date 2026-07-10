@@ -233,16 +233,6 @@ Socket.IO is used for:
 
 # 🖼️ Screenshots
 
-## Home Page
-
-![Home Page](screenshots/home.png)
-
-```text
-screenshots/home.png
-```
-
----
-
 ## Login Page
 
 ![Home Page](screenshots/login.png)
@@ -282,17 +272,6 @@ screenshots/chat.png
 ```
 
 ---
-
-## Profile
-
-![Home Page](screenshots/profile.png)
-
-```text
-screenshots/profile.png
-```
-
----
-
 
 # 👩‍💻 Author
 
