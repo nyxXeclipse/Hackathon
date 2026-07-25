@@ -233,19 +233,9 @@ Socket.IO is used for:
 
 # 🖼️ Screenshots
 
-## Home Page
-
-Replace with your screenshot
-
-```text
-screenshots/home.png
-```
-
----
-
 ## Login Page
 
-Replace with your screenshot
+![Home Page](screenshots/login.png)
 
 ```text
 screenshots/login.png
@@ -255,7 +245,7 @@ screenshots/login.png
 
 ## Register Page
 
-Replace with your screenshot
+![Home Page](screenshots/register.png)
 
 ```text
 screenshots/register.png
@@ -265,7 +255,7 @@ screenshots/register.png
 
 ## Feed
 
-Replace with your screenshot
+![Home Page](screenshots/feed.png)
 
 ```text
 screenshots/feed.png
@@ -275,24 +265,13 @@ screenshots/feed.png
 
 ## Chat
 
-Replace with your screenshot
+![Home Page](screenshots/chat.png)
 
 ```text
 screenshots/chat.png
 ```
 
 ---
-
-## Profile
-
-Replace with your screenshot
-
-```text
-screenshots/profile.png
-```
-
----
-
 
 # 👩‍💻 Author
 
